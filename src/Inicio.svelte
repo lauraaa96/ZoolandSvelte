@@ -63,8 +63,8 @@
 <p>
   <small>
     Backend en
-    <a href="https://tiendabackend.herokuapp.com">
-      https://tiendabackend.herokuapp.com
+    <a href="https://zooland-heroku.herokuapp.com">
+      https://zooland-heroku.herokuapp.com
     </a>
   </small>
 </p>
@@ -78,18 +78,18 @@
     </div>
   </Link>
 
-  <Link to="/articulos">
+  <Link to="/animales">
     <div class="resumen">
-      <span class="opcion">🎁 Artículos</span>
+      <span class="opcion">🎁 Animales</span>
       <span class="descripcion">
         Operaciones CRUD de artículos en una BD.
       </span>
     </div>
   </Link>
 
-  <Link to="/clientes">
+  <Link to="/personal">
     <div class="resumen">
-      <span class="opcion">👥 Clientes</span>
+      <span class="opcion">👥 Personal</span>
       <span class="descripcion">
         Operaciones CRUD de clientes en una BD.
       </span>

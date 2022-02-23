@@ -69,8 +69,8 @@
     }
 
     .inicio::after,
-    .articulos::after,
-    .clientes::after {
+    .animales::after,
+    .personal::after {
       display: inline-block;
       padding-left: 10px;
     }
@@ -78,11 +78,11 @@
     .inicio::after {
       content: "Inicio";
     }
-    .articulos::after {
-      content: "Artículos";
+    .animales::after {
+      content: "Animales";
     }
-    .clientes::after {
-      content: "Clientes";
+    .personal::after {
+      content: "Personal";
     }
   }
   /* PC */
@@ -109,13 +109,13 @@
       </Link>
     </li>
     <li class="item active">
-      <Link to="/articulos">
-        <span class="articulos">🎁</span>
+      <Link to="/animales">
+        <span class="animales">🎁</span>
       </Link>
     </li>
     <li class="item active">
-      <Link to="/clientes">
-        <span class="clientes">👥</span>
+      <Link to="/personal">
+        <span class="personal">👥</span>
       </Link>
     </li>
   </ul>
