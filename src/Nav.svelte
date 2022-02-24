@@ -26,7 +26,7 @@
   }
 
   .menu li:hover {
-    text-shadow: 3px 3px 4px #6f6f70;
+    text-shadow: 3px 3px 4px #6f706f;
   }
 
   .menu li {
@@ -105,12 +105,12 @@
   <ul class="menu">
     <li class="logo">
       <Link to="/">
-        <span class="inicio">🛒</span>
+        <span class="inicio">🏠</span>
       </Link>
     </li>
     <li class="item active">
       <Link to="/animales">
-        <span class="animales">🎁</span>
+        <span class="animales">🧑🏼</span>
       </Link>
     </li>
     <li class="item active">

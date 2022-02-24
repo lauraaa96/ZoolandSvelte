@@ -32,7 +32,7 @@
   }
 
   input[type="String"] {
-    text-align: right;
+    text-align: left;
     width: 100px;
   }
   input:focus {

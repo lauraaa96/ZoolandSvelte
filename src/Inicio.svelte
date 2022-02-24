@@ -8,6 +8,9 @@
   p {
     padding: 3px;
   }
+  h1{
+    color: rgb(147, 207, 69);
+  }
   div {
     padding: 30px;
   }
@@ -36,7 +39,7 @@
     font-weight: 700;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
     font-family: sans-serif;
-    color: #3b4151;
+    color: #40513b;
     border-radius: 4px;
     background: #defdc9;
     min-width: 140px;
@@ -48,13 +51,13 @@
     flex: 1 1 auto;
     word-break: break-word;
     font-family: sans-serif;
-    color: #3b4151;
+    color: #42513b;
     padding-top: 10px;
     padding-left: 10px;
   }
 </style>
 
-<h1>Tienda Frontend</h1>
+<h1>ZOOLAND</h1>
 <p>
   <small>
     <b>Progressive Web App (PWA)</b>
@@ -73,8 +76,8 @@
 <div class="bloque">
   <Link to="/">
     <div class="resumen">
-      <span class="opcion">🛒 Inicio</span>
-      <span class="descripcion">Esta página de información.</span>
+      <span class="opcion">🏠 Inicio</span>
+      <span class="descripcion">Página de información.</span>
     </div>
   </Link>
 
@@ -101,8 +104,8 @@
   <small>
     <b>
       Código fuente en
-      <a href="https://github.com/jamj2000/tiendafrontend">
-        https://github.com/jamj2000/tiendafrontend
+      <a href="https://github.com/lauraaa96/ZoolandSvelte">
+        https://github.com/lauraaa96/ZoolandSvelte
       </a>
     </b>
   </small>

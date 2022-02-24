@@ -35,6 +35,7 @@
 </style>
 
 <h1>PERSONAL</h1>
+<br>
 <Buscar bind:busqueda />
 
 <div class="container">

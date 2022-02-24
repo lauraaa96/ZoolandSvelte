@@ -38,13 +38,14 @@
     width: 100px;
   } */
   input:focus {
-    background-color: wheat;
+    background-color: rgb(192, 245, 179);;
   }
 
   input:required:invalid,
   input:focus:invalid {
     background-color: lightpink;
   }
+  
 </style>
 
 <div class="card" on:click>

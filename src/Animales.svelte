@@ -24,6 +24,7 @@
 </script>
 
 <h1>ANIMALES</h1>
+<br>
 <Buscar bind:busqueda />
 
 <div class="container">
