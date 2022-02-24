@@ -24,7 +24,7 @@
     border: 1px solid #000;
     border-radius: 4px;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.19);
-    border: 1px solid rgb(245, 177, 31);
+    border: 1px solid rgb(163, 245, 31);
     border-radius: 4px;
   }
 
@@ -38,7 +38,7 @@
     font-family: sans-serif;
     color: #3b4151;
     border-radius: 4px;
-    background: #fdebc9;
+    background: #defdc9;
     min-width: 140px;
     padding: 10px;
   }
@@ -80,7 +80,7 @@
 
   <Link to="/animales">
     <div class="resumen">
-      <span class="opcion">🎁 Animales</span>
+      <span class="opcion">🐻 Animales</span>
       <span class="descripcion">
         Operaciones CRUD de artículos en una BD.
       </span>
@@ -89,7 +89,7 @@
 
   <Link to="/personal">
     <div class="resumen">
-      <span class="opcion">👥 Personal</span>
+      <span class="opcion">🧑🏼 Personal</span>
       <span class="descripcion">
         Operaciones CRUD de clientes en una BD.
       </span>

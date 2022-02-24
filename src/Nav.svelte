@@ -9,7 +9,7 @@
   }
 
   nav {
-    background: #fdebc9;
+    background: #d5fdc9;
     padding: 8px;
     position: -webkit-sticky; /* Safari */
     position: sticky;
@@ -115,7 +115,7 @@
     </li>
     <li class="item active">
       <Link to="/personal">
-        <span class="personal">👥</span>
+        <span class="personal">🐻</span>
       </Link>
     </li>
   </ul>

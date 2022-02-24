@@ -7,8 +7,8 @@
     font-weight: bold;
   }
   .card {
-    background-color: #fdebc9;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #d3fdc9;
+    box-shadow: 0 4px 8px 0 rgba(17, 49, 33, 0.2);
     border-radius: 5px;
     transition: 0.3s;
     padding: 10px;
@@ -16,7 +16,7 @@
   }
 
   .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
+    box-shadow: 0 8px 16px 0 rgba(17, 49, 33, 0.2);
   }
 
   input {
@@ -36,7 +36,7 @@
     width: 100px;
   }
   input:focus {
-    background-color: wheat;
+    background-color: rgb(192, 245, 179);
   }
 
   input:required:invalid,
