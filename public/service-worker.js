@@ -10,13 +10,13 @@ const CACHE_ASSETS = [
   '/',
   '/index.html',
   '/offline.html',
-  '/favicon.png',
+  '/zooland.png',
   '/global.css',
   '/build/bundle.css',
   '/build/bundle.js',
   '/build/bundle.css.map',
   '/build/bundle.js.map',
-  '/images/icons/icon-512x512.png',
+  '/images/icons/zooland.png',
   '/assets/menu.svg',
   '/assets/cerrar.svg'
 ];

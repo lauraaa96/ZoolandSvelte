@@ -110,12 +110,12 @@
     </li>
     <li class="item active">
       <Link to="/animales">
-        <span class="animales">🧑🏼</span>
+        <span class="animales">🐻</span>
       </Link>
     </li>
     <li class="item active">
       <Link to="/personal">
-        <span class="personal">🐻</span>
+        <span class="personal">🧑🏼</span>
       </Link>
     </li>
   </ul>
