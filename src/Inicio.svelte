@@ -85,7 +85,7 @@
     <div class="resumen">
       <span class="opcion">🐻 Animales</span>
       <span class="descripcion">
-        Operaciones CRUD de artículos en una BD.
+        Operaciones CRUD de animales en una BD.
       </span>
     </div>
   </Link>
@@ -94,7 +94,7 @@
     <div class="resumen">
       <span class="opcion">🧑🏼 Personal</span>
       <span class="descripcion">
-        Operaciones CRUD de clientes en una BD.
+        Operaciones CRUD de personal en una BD.
       </span>
     </div>
   </Link>
